@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "tag_id": 1,
+    "tag_name": "Clam Chowdah"
+  },
+  {
+    "id": 2,
+    "tag_id": 2,
+    "tag_name": "Lobstah Roll"
+  },
+  {
+    "id": 3,
+    "tag_id": 3,
+    "tag_name": "Dunkin' Donuts"
+  },
+  {
+    "id": 4,
+    "tag_id": 4,
+    "tag_name": "Patriots"
+  },
+  {
+    "id": 5,
+    "tag_id": 5,
+    "tag_name": "Red Sox"
+  },
+  {
+    "id": 6,
+    "tag_id": 6,
+    "tag_name": "Bruins"
+  },
+  {
+    "id": 7,
+    "tag_id": 7,
+    "tag_name": "Celtics"
+  }
+]
